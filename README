@@ -1,0 +1,23 @@
+= Ghaki Canned Input - RSpec canned input helpers
+
+Ghaki Canned Input is a collection of RSpec canned input mixin helpers.
+
+== Download
+
+The latest version of Ghaki Canned Input can be found at
+
+* git@github.com:ghaki/ghaki-canned-input.git
+
+== Installation
+
+The preferred method of installing Ghaki Canned Input is through its GEM file.
+
+  % [sudo] gem install ghaki-canned-input-1.0.0.gem
+
+== License
+
+Ghaki Canned Input is released under the MIT license.
+
+== Support
+
+Contact mailto:gerald@kalafut.org
